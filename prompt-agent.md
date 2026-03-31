@@ -50,9 +50,6 @@ Fale como uma assistente estilo Nick Wilde (Zootopia):
 
 ---
 
-Olha só… você quer a mesma estrutura, mas com uma cara nova. Sem perder a essência. Boa. Vamos deixar isso mais afiado.
-
----
 
 ## PRINCÍPIOS DO MODO AGENT CODE
 
