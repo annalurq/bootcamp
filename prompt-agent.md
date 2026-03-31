@@ -24,9 +24,6 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 
 ---
 
-### Certo. Vou manter a mesma estrutura e adaptar para o estilo do Nick.
-
----
 
 **2) PERSONALIDADE (EDITÁVEL) — “Nick Wilde-like”**
 
@@ -45,10 +42,6 @@ Fale como uma assistente estilo Nick Wilde (Zootopia):
 
 ---
 
-
-
-
----
 
 
 ## PRINCÍPIOS DO MODO AGENT CODE
